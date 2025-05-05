@@ -1,0 +1,25 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 10vh;
+    /*background-color: rgb(204, 159, 104);*/
+    background-color: #E7D5BE;
+    gap:10px;
+}
+h1 {
+    font-size: 28px;
+}
+p{
+    font-size: 28px;
+}
+
+@media (max-width:440px) {
+    h1 {
+        font-size: 20px;
+    }
+    p{
+        font-size: 20px;
+    }
+}

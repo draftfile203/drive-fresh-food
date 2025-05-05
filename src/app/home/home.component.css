@@ -1,0 +1,193 @@
+
+
+section {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+   /* background-color:rgb(231, 213, 190);*/
+   background-color: #FFF8F0;
+   
+}
+
+
+h1 {
+    font-size: 40px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.about {
+    flex-direction: column;
+    padding: 40px;
+}
+
+.about p {
+    padding: 20px;
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.location {
+    display: flex;
+    padding: 40px;
+    
+    align-items: center;
+   justify-content: center;
+}
+
+.titleloc {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+   /*margin-top: 10px;*/
+}
+
+.map p {
+    font-size: 32px;
+  
+}
+
+iframe {
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+} 
+.lastwords {
+   align-items: center;
+   justify-content: center;
+}
+h3 {
+    max-width: 800px;
+    margin-top: 20px;
+font-size: 32px;
+text-align: center;
+font-weight: 400;
+padding: 20px;
+}
+
+@media (max-width: 680px){
+    .map {
+        flex-direction: column;
+    }
+    .titleloc {
+        align-items: center;
+    }
+    iframe {
+        margin-top: 10px;
+    }
+    h3 {
+        font-size: 28px;
+    }
+    .map p {
+        text-align: center;
+    }
+}
+
+@media (min-width:1200px) {
+    .titleloc {
+        max-width: 800px;
+    }
+  h1 {
+    font-size: 52px;
+  }
+  .about p {
+   font-size: 36px;
+  }
+  h2 {
+    font-size: 44px;
+  }
+.map p {
+    font-size: 36px;
+}
+iframe {
+    width: 600px;
+    height: 600px;
+}
+h3 {
+    max-width: 1400px;
+}}
+
+@media  (max-width: 600px) {
+    h1 {
+        font-size: 32px;
+      }
+      .about p {
+       font-size: 20px;
+      }
+      h2 {
+        font-size: 28px;
+      }
+    .map p {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+   
+ 
+}
+@media  (max-width: 430px) {
+    h1 {
+        font-size: 28px;
+      }
+      .about p {
+       font-size: 20px;
+      }
+      h2 {
+        font-size: 20px;
+      }
+    .map p {
+        font-size: 16px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+   iframe {
+    width: 300px;
+    height:300px;
+   }
+ 
+}
+
+@media  (max-width: 330px) {
+    h1 {
+        font-size: 24px;
+      }
+      .about p {
+       font-size: 16px;
+      }
+      h2 {
+        font-size: 16px;
+      }
+    .map p {
+        font-size: 12px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+   iframe {
+    width: 250px;
+    height:250px;
+   }
+ 
+}
+

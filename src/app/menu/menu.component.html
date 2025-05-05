@@ -1,0 +1,14 @@
+<section>
+    <input type="text" class="searchBar" placeholder="Input meal to search..." [(ngModel)]="searchTerm" (input)="onSearchChange()" >
+   
+
+    <div class="container">
+        <div class="card">
+            <app-menu-card *ngFor="let menu of filteredMenuList" [menu]="menu"></app-menu-card>
+        </div>
+       
+
+     
+    </div>
+
+</section>
