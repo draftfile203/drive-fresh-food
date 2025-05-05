@@ -1,0 +1,170 @@
+[
+    {
+      "image": "https://hillstreetgrocer.com/application/files/2217/1020/6968/ChickenShashlik.jpg",
+      "name": "Chicken shashlyk",
+      "name2": "ქათმის მწვადი",
+      "include": "include 1",
+      "price": 80,
+      "id": "1"
+    },
+    {
+      "image": "https://www.sweetandsavorybyshinee.com/wp-content/uploads/2020/07/Grilled-Pork-Kebabs-Shashlyk-4.jpg",
+      "name": "Pork shashlyk",
+      "name2": "ღორის მწვადი",
+      "include": "include 2",
+      "price": 90,
+      "id": "2"
+    },
+    {
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Shawarma.jpg",
+      "name": "Shawarma",
+      "name2": "შაურმა",
+      "include": "include 3",
+      "price": 89,
+      "id": "3"
+    },
+    {
+      "image": "https://www.iheartnaptime.net/wp-content/uploads/2022/05/I-Heart-Naptime-chicken-and-rice-11.jpg",
+      "name": "Rice gruel with chicken",
+      "name2": "ბრინჯის ფლავი ქათმით",
+      "include": "include 4",
+      "price": 36,
+      "id": "4"
+    },
+    {
+      "image": "https://ledenite-jura.lv/wp-content/uploads/2021/04/Chiken-plov-scaled.jpg",
+      "name": "Uzbek chicken salad",
+      "name2": "უზბეკური სალათი ქათმით",
+      "include": "include 5",
+      "price": 89,
+      "id": "5"
+    },
+    {
+      "image": "https://olesiaguts.com/wp-content/uploads/2021/08/eggplant-rolls-with-walnut-filling-4-1.jpg",
+      "name": "Eggplant with wallnut",
+      "name2": "ბადრიჯანი ნიგვზით",
+      "include": "include 6",
+      "price": 21,
+      "id": "6"
+    },
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod/images/delish-200318-seo-how-to-cook-beans-horizontal-final-14288-eb-1585337558.jpg",
+      "name": "Beans",
+      "name2": "ლობიო",
+      "include": "include 7",
+      "price": 5,
+      "id": "7"
+    },
+    {
+      "image": "https://dyj6gt4964deb.cloudfront.net/images/90910301291038305.jpeg",
+      "name": "Cucumber and tomato salad",
+      "name2": "კიტრის და პომიდვრის სალათი",
+      "include": "include 8",
+      "price": 77,
+      "id": "8"
+    },
+    {
+      "image": "https://f.authenticukraine.com.ua/photo/5422/8Ox7T.jpg",
+      "name": "Cheburek",
+      "name2": "ჩებურეკი",
+      "include": "include 9",
+      "price": 42,
+      "id": "9"
+    },
+    {
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9g6uQn3MvCqBPY2NqI99nqMtmxj5Wt8ZWBsboVQq5q9mrWQT8jDodRq97vDs7jR_rnjPhcvjXokxaXz_lmo6o9NUO4CYL7tIHuC4MTSrcaNJtHiqaEZwHYnvp49a3rBY8orZC-zHnRE35/s1600/chicken-mozzarella-sticks.jpg",
+      "name": "Chicken sticks",
+      "name2": "ქათმის ჩხირები",
+      "include": "include 10",
+      "price": 49,
+      "id": "10"
+    },
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod/images/roast-chicken-recipe-2-66b231ac9a8fb.jpg",
+      "name": "Fried chicken",
+      "name2": "შემწვარი წიწილა",
+      "include": "include 11",
+      "price": 76,
+      "id": "11"
+    },
+    {
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/9/12/1/FN_Picky-Eaters-Chicken-Nuggets_s4x3.jpg",
+      "name": "Chiken nuggets",
+      "name2": "ქათმის ნაგეცები",
+      "include": "include 12",
+      "price": 93,
+      "id": "12"
+    },
+    {
+      "image": "https://thasneen.com/cooking/wp-content/uploads/2009/08/Kerala-style-chicken-cutlets.jpg",
+      "name": "Cutlet",
+      "name2": "კოტლეტი",
+      "include": "include 13",
+      "price": 49,
+      "id": "13"
+    },
+    {
+      "image": "https://mojo.generalmills.com/api/public/content/OASn2dxatUyVggzmjrhm3Q_gmi_hi_res_jpeg.jpeg",
+      "name": "Mashed potatos",
+      "name2": "პიურე",
+      "include": "include 14",
+      "price": 16,
+      "id": "14"
+    },
+    {
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/24/09/63/classic-american-tradition.jpg",
+      "name": "Hot-dog",
+      "name2": "ჰოთ-დოგი",
+      "include": "include 15",
+      "price": 70,
+      "id": "15"
+    },
+    {
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6HASPARCZHYNN4XTUYT7H6PTE.jpg",
+      "name": "Hamburger",
+      "name2": "ჰამბურგერი",
+      "include": "include 16",
+      "price": 12,
+      "id": "16"
+    },
+    {
+      "image": "https://www.bpn.ge/media/uploads/2024/01-12/khinkali-w-h-1705061338.jpeg",
+      "name": "Khinkali",
+      "name2": "ხინკალი",
+      "include": "include 17",
+      "price": 13,
+      "id": "17"
+    },
+    {
+      "image": "https://sunelivalley.com/cdn/shop/articles/Blog-1---Chakapuli.jpg",
+      "name": "Chakapuli",
+      "name2": "ჩაქაფული",
+      "include": "include 18",
+      "price": 1,
+      "id": "18"
+    },
+    {
+      "image": "https://urbanblisslife.com/wp-content/uploads/2022/06/Crispy-Air-Fryer-Chicken-Wings-Recipe-500x500.jpg",
+      "name": "Fried chicken wings",
+      "name2": "შემწვარი ქათმის ფრთები",
+      "include": "include 19",
+      "price": 6,
+      "id": "19"
+    },
+    {
+      "image": "https://realgreekrecipes.com/wp-content/uploads/2024/03/Simple-Greek-Beetroot-Salad-Recipe.jpg",
+      "name": "Beetroot salad",
+      "name2": "ჭარხლის სალათი",
+      "include": "include 20",
+      "price": 49,
+      "id": "20"
+    },
+    {
+      "image": "https://gemrielia.ge/media/images/90517851.jpg",
+      "name": "Cooked chicken",
+      "name2": "ქათმის ჩახოხბილი",
+      "include": "include 21",
+      "price": 72,
+      "id": "21"
+    }
+  ]

@@ -1,0 +1,14 @@
+<section>
+    <form class="adminLogin" (ngSubmit)="onLogin()">
+
+        <h1>სახელი</h1>
+        <input type="text" name="username" [(ngModel)]="username" required>
+
+        <h1>პაროლი</h1>
+        <input type="password" name="password" [(ngModel)]="password" required>
+
+        <button type="submit">შესვლა</button>
+
+
+    </form>
+</section>

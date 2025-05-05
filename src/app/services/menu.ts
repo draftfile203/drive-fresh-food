@@ -3,5 +3,6 @@ export interface Menu {
     name:string,
     name2: string,
     include:string,
-    price:number
+    price:number,
+    id:string
 }

@@ -1,0 +1,26 @@
+<section>
+    <form [formGroup]="menuForm">
+        <div class="inputs">
+            <label for="image">ფოტოს ლინკი:</label>
+            <input type="text" id="image" formControlName="image">
+
+            <label for="name">სახელი ინგლისურად:</label>
+            <input type="text" id="name" formControlName="name">
+
+            <label for="name2">სახელი ქართულად:</label>
+            <input type="text" id="name2" formControlName="name2">
+
+            <button type="button" (click)="onAdd()">საჭმლის დამატება</button>
+            <button type="button" (click)="onUpdate()" [disabled]="!selectedMenuId">საჭმლის შეცვლა</button>
+            <button type="button" (click)="onDelete()" [disabled]="!selectedMenuId">საჭმლის წაშლა</button>
+        </div>
+
+        <div class="menu">
+            <div *ngFor="let menus of menu" class="menu-item">
+                <p (click)="selectMenu(menus,menus.id)">
+                    {{menus.name}} {{menus.name2}}
+                </p>
+            </div>
+        </div>
+    </form>
+</section>
